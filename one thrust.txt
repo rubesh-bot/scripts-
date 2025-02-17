@@ -18,6 +18,14 @@ function OptanonWrapper() { }
 //prod script for dev url
 
 <!-- OneTrust Cookies Consent Notice start for www.dev20.eaglebankcorp.com -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="019502c0-f10d-77c8-a4ff-86bd5ce57809" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for www.dev20.eaglebankcorp.com -->
+
+<!-- OneTrust Cookies Consent Notice start for www.dev20.eaglebankcorp.com -->
 <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="019502c0-f10d-77c8-a4ff-86bd5ce57809" ></script>
 <script type="text/javascript">
 function OptanonWrapper() { }
@@ -66,3 +74,18 @@ function OptanonWrapper() { }
 <!-- OneTrust Cookies List start -->
 <div id="ot-sdk-cookie-policy"></div>
 <!-- OneTrust Cookies List end -->
+
+
+https://github.com/rubesh-bot/scripts-.git
+
+echo "# scripts-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rubesh-bot/scripts-.git
+git push -u origin main
+
+git remote add origin https://github.com/rubesh-bot/scripts-.git
+git branch -M main
+git push -u origin main
